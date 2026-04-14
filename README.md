@@ -1,5 +1,3 @@
-# keyVolution
-Smart lock, WebUI, Telegram Bot
 KeyVolution Smart Lock (ESP32)
 Overview
 KeyVolution is an advanced, ESP32-based smart lock controller. It bridges local, physical access control (via RFID and capacitive touch) with cloud-based remote management. It features a local Web UI for configuration, an integrated Telegram Bot for remote control and notifications, and an ESP-NOW compatibility layer to communicate securely with an external RFID scanner node ("Box 1").
